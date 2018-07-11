@@ -1,0 +1,12 @@
+D:\work\dev\source\testApi\testapi\testapi\bin\Release\testapi.exe.config
+D:\work\dev\source\testApi\testapi\testapi\bin\Release\testapi.exe
+D:\work\dev\source\testApi\testapi\testapi\bin\Release\testapi.pdb
+D:\work\dev\source\testApi\testapi\testapi\bin\Release\Newtonsoft.Json.dll
+D:\work\dev\source\testApi\testapi\testapi\bin\Release\System.Net.Http.Formatting.dll
+D:\work\dev\source\testApi\testapi\testapi\bin\Release\Newtonsoft.Json.xml
+D:\work\dev\source\testApi\testapi\testapi\bin\Release\System.Net.Http.Formatting.xml
+D:\work\dev\source\testApi\testapi\testapi\obj\Release\testapi.csprojAssemblyReference.cache
+D:\work\dev\source\testApi\testapi\testapi\obj\Release\testapi.csproj.CoreCompileInputs.cache
+D:\work\dev\source\testApi\testapi\testapi\obj\Release\testapi.csproj.CopyComplete
+D:\work\dev\source\testApi\testapi\testapi\obj\Release\testapi.exe
+D:\work\dev\source\testApi\testapi\testapi\obj\Release\testapi.pdb

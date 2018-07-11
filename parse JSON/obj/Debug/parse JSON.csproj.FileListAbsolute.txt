@@ -1,0 +1,15 @@
+D:\work\dev\source\testApi\testapi\parse JSON\bin\Debug\parse JSON.exe.config
+D:\work\dev\source\testApi\testapi\parse JSON\bin\Debug\parse JSON.exe
+D:\work\dev\source\testApi\testapi\parse JSON\bin\Debug\parse JSON.pdb
+D:\work\dev\source\testApi\testapi\parse JSON\bin\Debug\Newtonsoft.Json.dll
+D:\work\dev\source\testApi\testapi\parse JSON\bin\Debug\Newtonsoft.Json.xml
+D:\work\dev\source\testApi\testapi\parse JSON\obj\Debug\parse JSON.csprojAssemblyReference.cache
+D:\work\dev\source\testApi\testapi\parse JSON\obj\Debug\parse JSON.csproj.CoreCompileInputs.cache
+D:\work\dev\source\testApi\testapi\parse JSON\obj\Debug\parse JSON.csproj.CopyComplete
+D:\work\dev\source\testApi\testapi\parse JSON\obj\Debug\parse JSON.exe
+D:\work\dev\source\testApi\testapi\parse JSON\obj\Debug\parse JSON.pdb
+D:\work\dev\source\testApi\testapi\parse JSON\bin\Debug\MySql.Data.dll
+D:\work\dev\source\testApi\testapi\parse JSON\bin\Debug\Google.Protobuf.dll
+D:\work\dev\source\testApi\testapi\parse JSON\bin\Debug\MySql.Data.xml
+D:\work\dev\source\testApi\testapi\parse JSON\bin\Debug\CsvHelper.dll
+D:\work\dev\source\testApi\testapi\parse JSON\bin\Debug\CsvHelper.xml

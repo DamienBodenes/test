@@ -1,0 +1,15 @@
+D:\work\dev\source\testApi\testapi\parse JSON\bin\Release\parse JSON.exe.config
+D:\work\dev\source\testApi\testapi\parse JSON\bin\Release\parse JSON.exe
+D:\work\dev\source\testApi\testapi\parse JSON\bin\Release\parse JSON.pdb
+D:\work\dev\source\testApi\testapi\parse JSON\bin\Release\MySql.Data.dll
+D:\work\dev\source\testApi\testapi\parse JSON\bin\Release\Newtonsoft.Json.dll
+D:\work\dev\source\testApi\testapi\parse JSON\bin\Release\Google.Protobuf.dll
+D:\work\dev\source\testApi\testapi\parse JSON\bin\Release\MySql.Data.xml
+D:\work\dev\source\testApi\testapi\parse JSON\bin\Release\Newtonsoft.Json.xml
+D:\work\dev\source\testApi\testapi\parse JSON\obj\Release\parse JSON.csprojAssemblyReference.cache
+D:\work\dev\source\testApi\testapi\parse JSON\obj\Release\parse JSON.csproj.CoreCompileInputs.cache
+D:\work\dev\source\testApi\testapi\parse JSON\obj\Release\parse JSON.csproj.CopyComplete
+D:\work\dev\source\testApi\testapi\parse JSON\obj\Release\parse JSON.exe
+D:\work\dev\source\testApi\testapi\parse JSON\obj\Release\parse JSON.pdb
+D:\work\dev\source\testApi\testapi\parse JSON\bin\Release\CsvHelper.dll
+D:\work\dev\source\testApi\testapi\parse JSON\bin\Release\CsvHelper.xml
